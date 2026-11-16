@@ -12,4 +12,4 @@ git push -u origin main
 git remote add origin https://github.com/Yaminriyad/my-third-github.git
 git push -u origin main
 git remote add origin https://github.com/Yaminriyad/my-third-github.git
-git push -u origin main
+git push -u origin main 
